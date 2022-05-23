@@ -3,3 +3,5 @@
 
 assignment submission
 To be honest, I somehow focused on implementation and wrote the code, so the completeness was lowered.
+
+js files except for WebGLDraw.js are libraries
